@@ -1,5 +1,5 @@
 -- ============================================================
---  DATA SETUP — Tes SQL Junior Programmer
+--  DATA SETUP — Tes SQL Programmer
 --  Rumah Sakit Sistem Informasi
 --  Jalankan file ini terlebih dahulu sebelum mengerjakan soal
 -- ============================================================
