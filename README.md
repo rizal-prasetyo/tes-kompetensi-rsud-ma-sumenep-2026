@@ -1,4 +1,4 @@
-# 🏥 Tes SQL MySQL – Rekrutmen Programmer RSUD MA SUMENEP
+# 🏥 Tes Database MySQL
 ### Durasi: 30 Menit
 
 ---
